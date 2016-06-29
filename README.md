@@ -36,7 +36,7 @@ gulp
 
 The website should open in a browser new tab/window (http://localhost:3000/)
 
-Live Demo: http://imransarwar.co.uk/flights/
+Live Demo: http://imransarwar.co.uk/marvel/
 
 ## Built With
 
